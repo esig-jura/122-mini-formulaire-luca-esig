@@ -71,6 +71,11 @@ form label{
 
 }
 
+form label input{
+    display: inline;
+    width: auto;
+}
+
  form input,form select{
     width: 100%;
     padding: 1em;
