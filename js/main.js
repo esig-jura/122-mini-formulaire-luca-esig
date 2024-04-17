@@ -5,4 +5,6 @@
 
 'use strict';
 
-console.log('Test liaison JS');
+
+const formulaire=document.querySelector('form');
+console.log(formulaire);
