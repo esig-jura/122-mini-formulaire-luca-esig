@@ -14,7 +14,7 @@ const listeBackground = document.getElementById('background');
 listeBackground.addEventListener('change', function () {
   body.style.backgroundImage = `url(./img/backgrounds/${listeBackground.value})`
 })
-
+//
 /*****************************************
  ENVOI DU FORMULAIRE
  *****************************************/
